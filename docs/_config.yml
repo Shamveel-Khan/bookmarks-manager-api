@@ -5,7 +5,7 @@ description: >-
 
 theme: just-the-docs
 
-url: https://guibranco.github.io
+url: https://Shamveel-Khan.github.io
 baseurl: /bookmarks-manager-api
 
 # ── Layout defaults ──────────────────────────────────────────────────────────
@@ -46,7 +46,7 @@ mermaid:
 # ── GitHub integration ───────────────────────────────────────────────────────
 gh_edit_link: true
 gh_edit_link_text: "✏️ Edit this page on GitHub"
-gh_edit_repository: "https://github.com/guibranco/bookmarks-manager-api"
+gh_edit_repository: "https://github.com/Shamveel-Khan/bookmarks-manager-api"
 gh_edit_branch: "main"
 gh_edit_source: docs
 gh_edit_view_mode: "edit"
@@ -54,9 +54,9 @@ gh_edit_view_mode: "edit"
 # ── Footer ───────────────────────────────────────────────────────────────────
 footer_content: >-
   Copyright &copy; 2026
-  <a href="https://github.com/guibranco">Guilherme Branco Stracini</a>.
-  Distributed by an
-  <a href="https://github.com/guibranco/bookmarks-manager-api/blob/main/LICENSE">MIT license.</a>
+  Maintained by Shamveel Khan.
+  Distributed under the
+  <a href="https://github.com/Shamveel-Khan/bookmarks-manager-api/blob/main/LICENSE">MIT license.</a>
 
 # ── Callouts ─────────────────────────────────────────────────────────────────
 callouts_level: quiet

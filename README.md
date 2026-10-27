@@ -2,7 +2,7 @@
 
 A **RESTful API** for managing bookmarks, built with **.NET 10** and **ASP.NET Core Minimal APIs**, backed by **Entity Framework Core** (SQLite or MariaDB). Designed to integrate seamlessly with the **[Bookmarks Manager UI](https://github.com/guibranco/bookmarks-manager-ui)** to store, organize, and retrieve bookmarks.
 
-📖 Full documentation: **[guibranco.github.io/bookmarks-manager-api](https://guibranco.github.io/bookmarks-manager-api/)**
+📖 Full documentation: **[Shamveel-Khan.github.io/bookmarks-manager-api](https://Shamveel-Khan.github.io/bookmarks-manager-api/)**
 🌐 Production API: **[api.bookmarks.straccini.com](https://api.bookmarks.straccini.com)**
 
 ## 🚀 Features
@@ -30,7 +30,7 @@ A **RESTful API** for managing bookmarks, built with **.NET 10** and **ASP.NET C
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/guibranco/bookmarks-manager-api.git
+git clone https://github.com/Shamveel-Khan/bookmarks-manager-api.git
 cd bookmarks-manager-api
 
 dotnet restore BookmarksManager.sln
@@ -66,7 +66,7 @@ docker build -t bookmarks-manager-api .
 docker run -p 8080:8080 -e ApiKey=dev-secret-key-change-me bookmarks-manager-api
 ```
 
-See the [deployment docs](https://guibranco.github.io/bookmarks-manager-api/deployment/) for the full Docker Compose + nginx production setup.
+See the [deployment docs](https://Shamveel-Khan.github.io/bookmarks-manager-api/deployment/) for the full Docker Compose + nginx production setup.
 
 ## 🔐 Authentication model
 
@@ -89,7 +89,7 @@ EF_PROVIDER=Sqlite dotnet ef database update \
 
 ## 📚 Documentation
 
-Full documentation — getting started, architecture diagrams, API reference, and deployment guide — lives under [`docs/`](docs/) and is published at **[guibranco.github.io/bookmarks-manager-api](https://guibranco.github.io/bookmarks-manager-api/)**.
+Full documentation — getting started, architecture diagrams, API reference, and deployment guide — lives under [`docs/`](docs/) and is published at **[Shamveel-Khan.github.io/bookmarks-manager-api](https://Shamveel-Khan.github.io/bookmarks-manager-api/)**.
 
 ## 📜 License
 

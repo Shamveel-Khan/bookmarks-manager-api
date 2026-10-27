@@ -2,7 +2,7 @@ services:
   api:
     build:
       context: .
-    image: ghcr.io/guibranco/bookmarks-manager-api:latest
+    image: ghcr.io/shamveel-khan/bookmarks-manager-api:latest
     container_name: bookmarks-manager-api
     restart: unless-stopped
     environment:

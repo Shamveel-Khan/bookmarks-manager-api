@@ -49,7 +49,7 @@ LABEL org.opencontainers.image.title="Bookmarks Manager API" \
       org.opencontainers.image.version="${VERSION}" \
       org.opencontainers.image.revision="${GIT_SHA}" \
       org.opencontainers.image.created="${BUILD_DATE}" \
-      org.opencontainers.image.source="https://github.com/guibranco/bookmarks-manager-api" \
+      org.opencontainers.image.source="https://github.com/Shamveel-Khan/bookmarks-manager-api" \
       org.opencontainers.image.licenses="MIT"
 
 ENV BOOKMARKS_MANAGER_VERSION=${INFORMATIONAL_VERSION}

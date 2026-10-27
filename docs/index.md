@@ -11,7 +11,7 @@ A RESTful API for managing bookmarks, folders and tags, built with **.NET 10** a
 {: .fs-6 .fw-300 }
 
 [Get started now]({{ site.baseurl }}/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/guibranco/bookmarks-manager-api){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/Shamveel-Khan/bookmarks-manager-api){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

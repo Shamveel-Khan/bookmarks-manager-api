@@ -15,7 +15,7 @@ nav_order: 1
 ## Clone the repository
 
 ```bash
-git clone https://github.com/guibranco/bookmarks-manager-api.git
+git clone https://github.com/Shamveel-Khan/bookmarks-manager-api.git
 cd bookmarks-manager-api
 ```
 
